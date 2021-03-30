@@ -6,7 +6,7 @@ public class test1 {
 		
 		int a = 1000;
 		
-		if(a == 1000) {
+		if(a == 1000 || a == 2000 || a == 3000) {
 			System.out.println("eat something......");
 		}else {
 			System.out.println("Do work........");
